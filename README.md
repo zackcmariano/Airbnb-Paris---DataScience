@@ -1,2 +1,2 @@
 # Airbnb Paris / DataScience
-##  Airbnb official data | :airplane: |
+##  Airbnb official data | :airplane: | :hotel: |
